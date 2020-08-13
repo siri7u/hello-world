@@ -1,0 +1,43 @@
+{
+   "app": {
+      "display_mode": "minimal-ui",
+      "icon_color": "#2F2E32",
+      "launch": {
+         "web_url": "https://listen.tidal.com/index.html?utm_source=web_app_manifest"
+      },
+      "linked_icons": [ {
+         "size": 192,
+         "url": "https://listen.tidal.com/img/app-icon-192.png"
+      }, {
+         "size": 512,
+         "url": "https://listen.tidal.com/img/app-icon-512.png"
+      }, {
+         "size": 192,
+         "url": "https://listen.tidal.com/img/app-icon-192.webp"
+      }, {
+         "size": 512,
+         "url": "https://listen.tidal.com/img/app-icon-512.webp"
+      } ],
+      "theme_color": "rgba(37,36,40,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "JvE1PZn01v6gHY2KDt4/62qaUeTB/ANYEDZ5Uwd/XXs=",
+   "name": "TIDAL",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://listen.tidal.com/*" ],
+         "title": "TIDAL"
+      }
+   },
+   "version": "2020.8.6.54327"
+}

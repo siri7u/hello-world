@@ -1,0 +1,41 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAIkAAAACQAABUwAAAL2AAACJgAAAAsAAAVKAAAC9AAAAAAAAAAABVYAAAImAAAACwAABUoAAAL0"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAJcA////+wAAABAAdABvAGMALQBkAG8AYwBrAAAAAAD/////AAAAiAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAD/////AAAAYwD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADsAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAADJQAAAuoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "controls_help_shown_count": 2, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Histoire de France - Hippolyte Taine"
+        ], 
+        "key": "/home/gevo/Calibre Library/Histoire de France - Hippolyte Taine/01 Les origines de la France (2)/01 Les origines de la France - Histoire de France - Hippolyte Taine.epub", 
+        "pathtoebook": "/home/gevo/Calibre Library/Histoire de France - Hippolyte Taine/01 Les origines de la France (2)/01 Les origines de la France - Histoire de France - Hippolyte Taine.epub", 
+        "timestamp": "2020-08-09T13:57:32.780Z", 
+        "title": "01 Les origines de la France"
+      }, 
+      {
+        "authors": [
+          "John Schember"
+        ], 
+        "key": "/home/gevo/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub", 
+        "pathtoebook": "/home/gevo/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub", 
+        "timestamp": "2020-08-07T21:02:10.462Z", 
+        "title": "Quick Start Guide"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+2020/08/11-11:44:40.646 940 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/11-11:44:40.646 940 Recovering log #3
+2020/08/11-11:44:40.721 940 Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2020/08/11-11:50:44.090 363 Level-0 table #5: started
+2020/08/11-11:50:44.156 363 Level-0 table #5: 457214 bytes OK
+2020/08/11-11:50:44.193 363 Delete type=0 #3
+2020/08/11-11:50:44.194 363 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

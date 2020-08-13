@@ -1,0 +1,15 @@
+2020/08/11-11:30:17.083 5d3 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_www.amazon.fr_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/11-11:30:17.083 5d3 Recovering log #23
+2020/08/11-11:30:17.083 5d3 Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/https_www.amazon.fr_0.indexeddb.leveldb/000023.log 
+2020/08/11-11:30:21.745 363 Level-0 table #28: started
+2020/08/11-11:30:21.824 363 Level-0 table #28: 777 bytes OK
+2020/08/11-11:30:21.948 363 Delete type=0 #23
+2020/08/11-11:30:21.948 363 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/11-11:30:21.949 363 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x00~!\xd1=wB\x00\x01\x14\x007\x007\x007\x00V\x00T\x00Q\x001\x00S\x00V\x00H\x00W\x003\x00H\x00J\x002\x00R\x00X\x00D\x00K\x00S' @ 201 : 1
+2020/08/11-11:30:21.949 363 Compacting 1@1 + 1@2 files
+2020/08/11-11:30:22.026 363 Generated table #29@1: 26 keys, 743 bytes
+2020/08/11-11:30:22.026 363 Compacted 1@1 + 1@2 files => 743 bytes
+2020/08/11-11:30:22.126 363 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/11-11:30:22.126 363 Delete type=2 #25
+2020/08/11-11:30:22.126 363 Delete type=2 #28
+2020/08/11-11:30:22.127 363 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x00~!\xd1=wB\x00\x01\x14\x007\x007\x007\x00V\x00T\x00Q\x001\x00S\x00V\x00H\x00W\x003\x00H\x00J\x002\x00R\x00X\x00D\x00K\x00S' @ 201 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#echo 1 BTC = $(curl -s https://api.coindesk.com/v1/bpi/currentprice/eur.json | grep -o 'rate":"[^"]*' | cut -d\" -f3) USD"
+#curl -s http://api.coindesk.com/v1/bpi/currentprice/eur.json | python -c "import json, sys; print(json.load(sys.stdin)['bpi']['EUR']['rate'])"
+vartest=$(curl -s http://api.coindesk.com/v1/bpi/currentprice/eur.json | python -c "import json, sys; print(json.load(sys.stdin)['bpi']['EUR']['rate'].split('.')[0])"| awk '{print $1}')
+echo "B${vartest}"

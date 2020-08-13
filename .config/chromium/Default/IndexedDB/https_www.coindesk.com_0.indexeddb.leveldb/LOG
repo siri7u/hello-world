@@ -1,0 +1,5 @@
+2020/08/12-23:19:11.984 1b64 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_www.coindesk.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-23:20:40.929 3b2 Level-0 table #5: started
+2020/08/12-23:20:40.984 3b2 Level-0 table #5: 14874 bytes OK
+2020/08/12-23:20:41.040 3b2 Delete type=0 #3
+2020/08/12-23:20:41.041 3b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

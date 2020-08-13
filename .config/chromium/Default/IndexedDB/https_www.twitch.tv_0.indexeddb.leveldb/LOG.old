@@ -1,0 +1,8 @@
+2020/08/10-22:19:54.462 9c9 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/10-22:19:54.462 9c9 Recovering log #7
+2020/08/10-22:19:54.462 9c9 Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000007.log 
+2020/08/10-22:20:26.548 35b Level-0 table #11: started
+2020/08/10-22:20:26.548 35b Level-0 table #11: 0 bytes OK
+2020/08/10-22:20:26.598 35b Delete type=0 #7
+2020/08/10-22:20:26.599 35b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/10-22:20:26.599 35b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

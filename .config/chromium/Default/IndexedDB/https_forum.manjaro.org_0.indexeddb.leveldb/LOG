@@ -1,0 +1,15 @@
+2020/08/13-11:50:17.389 900 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/13-11:50:17.389 900 Recovering log #15
+2020/08/13-11:50:17.389 900 Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000015.log 
+2020/08/13-11:50:55.402 74b Level-0 table #20: started
+2020/08/13-11:50:55.471 74b Level-0 table #20: 76232 bytes OK
+2020/08/13-11:50:55.514 74b Delete type=0 #15
+2020/08/13-11:50:55.515 74b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/13-11:50:55.515 74b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x10\x81\xa4s>wB\x00\x01:\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 5562 : 1
+2020/08/13-11:50:55.515 74b Compacting 1@1 + 1@2 files
+2020/08/13-11:50:55.572 74b Generated table #21@1: 437 keys, 46809 bytes
+2020/08/13-11:50:55.572 74b Compacted 1@1 + 1@2 files => 46809 bytes
+2020/08/13-11:50:55.614 74b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/13-11:50:55.615 74b Delete type=2 #20
+2020/08/13-11:50:55.615 74b Delete type=2 #17
+2020/08/13-11:50:55.616 74b Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x10\x81\xa4s>wB\x00\x01:\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 5562 : 1 .. (end); will stop at (end)

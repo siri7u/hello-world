@@ -1,0 +1,51 @@
+2020/08/12-21:55:43.283 2d9 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-21:55:43.283 2d9 Recovering log #58
+2020/08/12-21:55:43.575 2d9 Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000058.log 
+2020/08/12-22:25:28.168 3b2 Level-0 table #63: started
+2020/08/12-22:25:28.280 3b2 Level-0 table #63: 1098314 bytes OK
+2020/08/12-22:25:28.328 3b2 Delete type=0 #58
+2020/08/12-22:26:02.002 3b2 Compacting 1@1 + 1@2 files
+2020/08/12-22:26:02.106 3b2 Generated table #64@1: 72 keys, 4052 bytes
+2020/08/12-22:26:02.106 3b2 Compacted 1@1 + 1@2 files => 4052 bytes
+2020/08/12-22:26:02.247 3b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/12-22:26:02.248 3b2 Delete type=2 #63
+2020/08/12-22:26:02.248 3b2 Delete type=2 #60
+2020/08/12-22:59:11.061 3b2 Level-0 table #66: started
+2020/08/12-22:59:11.206 3b2 Level-0 table #66: 1155361 bytes OK
+2020/08/12-22:59:11.330 3b2 Delete type=0 #62
+2020/08/12-23:00:14.005 3b2 Compacting 1@1 + 1@2 files
+2020/08/12-23:00:14.118 3b2 Generated table #67@1: 70 keys, 4150 bytes
+2020/08/12-23:00:14.118 3b2 Compacted 1@1 + 1@2 files => 4150 bytes
+2020/08/12-23:00:14.228 3b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/12-23:00:14.229 3b2 Delete type=2 #66
+2020/08/12-23:00:14.229 3b2 Delete type=2 #64
+2020/08/12-23:35:59.054 3b2 Level-0 table #69: started
+2020/08/12-23:35:59.180 3b2 Level-0 table #69: 1141467 bytes OK
+2020/08/12-23:35:59.299 3b2 Delete type=0 #65
+2020/08/12-23:37:07.619 3b2 Compacting 1@1 + 1@2 files
+2020/08/12-23:37:07.705 3b2 Generated table #70@1: 76 keys, 4109 bytes
+2020/08/12-23:37:07.705 3b2 Compacted 1@1 + 1@2 files => 4109 bytes
+2020/08/12-23:37:07.749 3b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/12-23:37:07.750 3b2 Delete type=2 #69
+2020/08/12-23:37:07.750 3b2 Delete type=2 #67
+2020/08/13-00:09:17.155 3b2 Level-0 table #72: started
+2020/08/13-00:09:17.276 3b2 Level-0 table #72: 1162165 bytes OK
+2020/08/13-00:09:17.324 3b2 Delete type=0 #68
+2020/08/13-00:10:44.009 3b2 Compacting 1@1 + 1@2 files
+2020/08/13-00:10:44.132 3b2 Generated table #73@1: 74 keys, 5138 bytes
+2020/08/13-00:10:44.132 3b2 Compacted 1@1 + 1@2 files => 5138 bytes
+2020/08/13-00:10:44.223 3b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/13-00:10:44.224 3b2 Delete type=2 #70
+2020/08/13-00:10:44.224 3b2 Delete type=2 #72
+2020/08/13-00:57:25.860 3b2 Level-0 table #75: started
+2020/08/13-00:57:25.956 3b2 Level-0 table #75: 1100108 bytes OK
+2020/08/13-00:57:26.000 3b2 Delete type=0 #71
+2020/08/13-00:57:26.004 3b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/13-00:57:26.004 3b2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x005\x009\x007\x002\x007\x003\x000\x001\x002\x003\x009\x007' @ 301368 : 1
+2020/08/13-00:57:26.004 3b2 Compacting 1@1 + 1@2 files
+2020/08/13-00:57:26.068 3b2 Generated table #76@1: 69 keys, 3321 bytes
+2020/08/13-00:57:26.068 3b2 Compacted 1@1 + 1@2 files => 3321 bytes
+2020/08/13-00:57:26.107 3b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/13-00:57:26.108 3b2 Delete type=2 #75
+2020/08/13-00:57:26.109 3b2 Delete type=2 #73
+2020/08/13-00:57:26.111 3b2 Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x005\x009\x007\x002\x007\x003\x000\x001\x002\x003\x009\x007' @ 301368 : 1 .. (end); will stop at (end)

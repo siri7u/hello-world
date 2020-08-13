@@ -1,0 +1,5 @@
+2020/08/13-01:13:59.320 a358 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/13-01:20:00.690 a16e Level-0 table #5: started
+2020/08/13-01:20:00.735 a16e Level-0 table #5: 2074 bytes OK
+2020/08/13-01:20:00.779 a16e Delete type=0 #3
+2020/08/13-01:20:00.780 a16e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

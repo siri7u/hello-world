@@ -1,0 +1,8 @@
+2020/08/13-11:48:00.004 6ff Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/13-11:48:00.005 6ff Recovering log #79
+2020/08/13-11:48:00.005 6ff Reusing old log /home/gevo/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000079.log 
+2020/08/13-11:48:02.054 74b Level-0 table #83: started
+2020/08/13-11:48:02.054 74b Level-0 table #83: 0 bytes OK
+2020/08/13-11:48:02.127 74b Delete type=0 #79
+2020/08/13-11:48:02.128 74b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/13-11:48:02.128 74b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

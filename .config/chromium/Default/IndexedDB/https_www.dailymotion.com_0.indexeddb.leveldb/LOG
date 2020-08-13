@@ -1,0 +1,5 @@
+2020/08/12-22:16:50.619 845 Reusing MANIFEST /home/gevo/.config/chromium/Default/IndexedDB/https_www.dailymotion.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/12-22:16:56.438 3b2 Level-0 table #5: started
+2020/08/12-22:16:56.495 3b2 Level-0 table #5: 348 bytes OK
+2020/08/12-22:16:56.562 3b2 Delete type=0 #3
+2020/08/12-22:16:56.563 3b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

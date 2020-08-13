@@ -1,0 +1,11 @@
+[Default Applications]
+text/html=chromium.desktop
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/about=chromium.desktop
+x-scheme-handler/unknown=chromium.desktop
+
+[Added Associations]
+application/x-sharedlib=chromium.desktop;
+application/epub+zip=calibre-ebook-viewer.desktop;
+application/octet-stream=deepin-movie.desktop;

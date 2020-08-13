@@ -1,0 +1,12 @@
+{
+    "WindowManager": {
+        "SplitterState": {
+            "sidebar": 200
+        },
+        "WindowState": {
+            "height": 700,
+            "state": 16,
+            "width": 1100
+        }
+    }
+}
